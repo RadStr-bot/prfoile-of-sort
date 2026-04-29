@@ -1,0 +1,17 @@
+{
+  "iri": "c30502db-415a-41ae-8574-212c6b899da3/82070b0f-8f0d-408a-adfe-965ae1e2adbf/vocabulary",
+  "projectIri": "8046a609-585e-4516-8e92-f9658c629ed4",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Sort"
+    },
+    "documentBaseUrl": "https://tool.dataspecer.com/api/preview/cs/index.html?iri=786f5388-a58f-469a-8042-3d2bd08637cb"
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

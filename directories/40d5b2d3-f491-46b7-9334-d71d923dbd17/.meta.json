@@ -1,0 +1,19 @@
+{
+  "iri": "c30502db-415a-41ae-8574-212c6b899da3/82070b0f-8f0d-408a-adfe-965ae1e2adbf",
+  "projectIri": "40d5b2d3-f491-46b7-9334-d71d923dbd17",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Sort"
+    },
+    "description": {},
+    "importedFromUrl": "https://tool.dataspecer.com/api/preview/cs/index.html?iri=786f5388-a58f-469a-8042-3d2bd08637cb",
+    "documentBaseUrl": "https://tool.dataspecer.com/api/preview/cs/index.html?iri=786f5388-a58f-469a-8042-3d2bd08637cb"
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

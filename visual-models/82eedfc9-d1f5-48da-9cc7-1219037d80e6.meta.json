@@ -1,0 +1,19 @@
+{
+  "iri": "c30502db-415a-41ae-8574-212c6b899da3/visual-model",
+  "projectIri": "82eedfc9-d1f5-48da-9cc7-1219037d80e6",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "View for Profile of Sort"
+    },
+    "description": {
+      "en": "Visual model for the profile"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

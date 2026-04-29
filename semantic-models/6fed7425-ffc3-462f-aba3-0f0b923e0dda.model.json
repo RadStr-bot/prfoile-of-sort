@@ -1,0 +1,68 @@
+{
+  "type": "http://dataspecer.com/resources/local/semantic-model",
+  "modelId": "c30502db-415a-41ae-8574-212c6b899da3/semantic-model",
+  "modelAlias": "Profile of Sort",
+  "baseIri": "https://example.com/profile/vocabulary#",
+  "entities": {
+    "6zzz78xtt0ymmtg492q": {
+      "iri": "A",
+      "profiling": [
+        "https://example.com/vocabulary#A"
+      ],
+      "name": {
+        "en": "A"
+      },
+      "nameFromProfiled": "https://example.com/vocabulary#A",
+      "description": {},
+      "descriptionFromProfiled": "https://example.com/vocabulary#A",
+      "usageNote": null,
+      "usageNoteFromProfiled": null,
+      "externalDocumentationUrl": null,
+      "tags": [],
+      "id": "6zzz78xtt0ymmtg492q",
+      "type": [
+        "class-profile"
+      ]
+    },
+    "j2tv0o3m0ismmtg492q": {
+      "iri": "C",
+      "profiling": [
+        "https://example.com/vocabulary#C"
+      ],
+      "name": {
+        "en": "C"
+      },
+      "nameFromProfiled": "https://example.com/vocabulary#C",
+      "description": {},
+      "descriptionFromProfiled": "https://example.com/vocabulary#C",
+      "usageNote": null,
+      "usageNoteFromProfiled": null,
+      "externalDocumentationUrl": null,
+      "tags": [],
+      "id": "j2tv0o3m0ismmtg492q",
+      "type": [
+        "class-profile"
+      ]
+    },
+    "75ubtch7xgsmmtg492q": {
+      "iri": "B",
+      "profiling": [
+        "https://example.com/vocabulary#B"
+      ],
+      "name": {
+        "en": "B"
+      },
+      "nameFromProfiled": "https://example.com/vocabulary#B",
+      "description": {},
+      "descriptionFromProfiled": "https://example.com/vocabulary#B",
+      "usageNote": null,
+      "usageNoteFromProfiled": null,
+      "externalDocumentationUrl": null,
+      "tags": [],
+      "id": "75ubtch7xgsmmtg492q",
+      "type": [
+        "class-profile"
+      ]
+    }
+  }
+}

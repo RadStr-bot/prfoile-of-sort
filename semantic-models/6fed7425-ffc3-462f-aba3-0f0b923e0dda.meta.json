@@ -1,0 +1,20 @@
+{
+  "iri": "c30502db-415a-41ae-8574-212c6b899da3/semantic-model",
+  "projectIri": "6fed7425-ffc3-462f-aba3-0f0b923e0dda",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Profile of Sort"
+    },
+    "description": {
+      "en": "Semantic model for the profile"
+    },
+    "baseIri": "https://example.com/profile/vocabulary#"
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

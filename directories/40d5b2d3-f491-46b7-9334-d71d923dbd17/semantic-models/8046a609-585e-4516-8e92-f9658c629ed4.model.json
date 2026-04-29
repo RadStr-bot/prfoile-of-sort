@@ -1,0 +1,68 @@
+{
+  "type": "http://dataspecer.com/resources/local/semantic-model",
+  "modelId": "c30502db-415a-41ae-8574-212c6b899da3/82070b0f-8f0d-408a-adfe-965ae1e2adbf/vocabulary",
+  "modelAlias": "Sort",
+  "baseIri": "https://example.com/vocabulary#",
+  "entities": {
+    "https://example.com/vocabulary#A": {
+      "id": "https://example.com/vocabulary#A",
+      "iri": "A",
+      "name": {
+        "en": "A"
+      },
+      "description": {},
+      "type": [
+        "class"
+      ]
+    },
+    "https://dataspecer.com/semantic-models/generalizationfromIri=https%3A%2F%2Fexample.com%2Fvocabulary%23A&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23Thing": {
+      "id": "https://dataspecer.com/semantic-models/generalizationfromIri=https%3A%2F%2Fexample.com%2Fvocabulary%23A&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23Thing",
+      "iri": null,
+      "type": [
+        "generalization"
+      ],
+      "child": "https://example.com/vocabulary#A",
+      "parent": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    "https://example.com/vocabulary#C": {
+      "id": "https://example.com/vocabulary#C",
+      "iri": "C",
+      "name": {
+        "en": "C"
+      },
+      "description": {},
+      "type": [
+        "class"
+      ]
+    },
+    "https://dataspecer.com/semantic-models/generalizationfromIri=https%3A%2F%2Fexample.com%2Fvocabulary%23C&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23Thing": {
+      "id": "https://dataspecer.com/semantic-models/generalizationfromIri=https%3A%2F%2Fexample.com%2Fvocabulary%23C&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23Thing",
+      "iri": null,
+      "type": [
+        "generalization"
+      ],
+      "child": "https://example.com/vocabulary#C",
+      "parent": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    "https://example.com/vocabulary#B": {
+      "id": "https://example.com/vocabulary#B",
+      "iri": "B",
+      "name": {
+        "en": "B"
+      },
+      "description": {},
+      "type": [
+        "class"
+      ]
+    },
+    "https://dataspecer.com/semantic-models/generalizationfromIri=https%3A%2F%2Fexample.com%2Fvocabulary%23B&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23Thing": {
+      "id": "https://dataspecer.com/semantic-models/generalizationfromIri=https%3A%2F%2Fexample.com%2Fvocabulary%23B&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23Thing",
+      "iri": null,
+      "type": [
+        "generalization"
+      ],
+      "child": "https://example.com/vocabulary#B",
+      "parent": "http://www.w3.org/2002/07/owl#Thing"
+    }
+  }
+}
